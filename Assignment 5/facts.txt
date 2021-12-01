@@ -1,0 +1,14 @@
+yes('python').
+yes('programming').
+no('ml').
+no('database').
+no('advanceprogramming').
+no('probability').
+no('discreetmaths').
+no('cn').
+no('electronics').
+no('cryptography').
+ai(yes).
+de(no).
+is(no).
+mc(no).
