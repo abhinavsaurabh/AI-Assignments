@@ -1,6 +1,6 @@
 # AI-Assignments
 
-This repository contains a series of assignments completed as part of the CSE643 Artificial Intelligence coursework at IIIT-Delhi during Monsoon 2022. Each assignment explores different facets of AI, employing various programming languages and tools to implement and demonstrate AI concepts and algorithms.
+This repository contains a series of assignments completed as part of the CSE643 Artificial Intelligence coursework at IIIT-Delhi during Monsoon 2021. Each assignment explores different facets of AI, employing various programming languages and tools to implement and demonstrate AI concepts and algorithms.
 
 **Course Instructor:** [Dr. C. Anantaram](https://www.linkedin.com/in/c-anantaram-312b6214/)
 
